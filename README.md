@@ -29,9 +29,13 @@ This is a terminal-based Python game inspired by the classic **Snake, Water, Gun
 
 ---
 🚀 What I Learned
+
 1-Conditional logic using if-elif-else
+
 2-Loop control with while and break
+
 3-Use of the random module for AI-like behavior
+
 4-Improving user experience with clear messaging
 
 ## 🖥️ How to Run the Project
