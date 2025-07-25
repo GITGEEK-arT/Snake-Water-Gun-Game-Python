@@ -28,6 +28,11 @@ This is a terminal-based Python game inspired by the classic **Snake, Water, Gun
 - CLI (Command Line Interface)
 
 ---
+🚀 What I Learned
+1-Conditional logic using if-elif-else
+2-Loop control with while and break
+3-Use of the random module for AI-like behavior
+4-Improving user experience with clear messaging
 
 ## 🖥️ How to Run the Project
 
@@ -37,9 +42,9 @@ This is a terminal-based Python game inspired by the classic **Snake, Water, Gun
 ```bash
 python swg_game.py
 
-## 📩 Feel Free to Ask / Connect
-
+📩 Feel Free to Ask / Connect
 If you have questions, feedback, or just want to connect:
 
-- 📧 Gmail: [nareshkumar10060606@gmail.com](mailto:nareshkumar10060606@gmail.com)  
-- 📸 Instagram: [@naresh_.kumarsuthar](https://instagram.com/naresh_.kumarsuthar)
+📧 Gmail: nareshkumar10060606@gmail.com
+
+📸 Instagram: @naresh_.kumarsuthar
